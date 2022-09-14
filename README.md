@@ -89,3 +89,6 @@ Features planned include the ability to store a history of probe results.  Since
 Develpopment:
 
 I have many and long term plans for development of this application, and you are welcome to do your own work on it.  I will be updating it at Test PyPI and at my repos at GitHub and BitBucket periodically.  I use Pycharm for this project, and the directory structure of the src/gearboxmd folder in the source dist archive is identical to my Pycharm project folder for this project.
+
+If you would like to support this project, you can contribute here:
+https://www.buymeacoffee.com/keithmichah
